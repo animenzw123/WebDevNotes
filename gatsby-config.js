@@ -1,11 +1,11 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Noah's Web Dev Notes`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Wei Zhang (Noah)`,
+      summary: `who lives and works in Melbourne building interesting stuffs.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
+    description: `Wei's personal blog about web development`,
     siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
     social: {
       twitter: `kylemathews`,
