@@ -5,7 +5,6 @@ description: "Let's start with the first and the main concept, how to start to b
 keyword: "React"
 ---
 
-Since we are talking about mern stack, React.js should definitely be the first thing we need to talk about.
 
 Let's start with how to setup a react application~
 [setup a react application~](https://reactjs.org/docs/getting-started.html).
