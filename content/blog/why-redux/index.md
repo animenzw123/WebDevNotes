@@ -1,6 +1,6 @@
 ---
 title: Why using redux in react?
-date: "2020-12-28T20:23:32.169Z"
+date: "2020-11-24T17:42:31.169Z"
 description: This is about the cons of using redux in a react app.
 keyword: "React"
 ---

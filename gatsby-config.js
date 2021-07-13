@@ -3,7 +3,7 @@ module.exports = {
     title: `Noah's Web Dev Notes`,
     author: {
       name: `Wei Zhang (Noah)`,
-      summary: `who lives and works in Melbourne building interesting stuffs.`,
+      summary: `who lives and works in Melbourne as a front-end developer.`,
     },
     description: `Wei's personal blog about web development`,
     siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
